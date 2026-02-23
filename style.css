@@ -1,0 +1,15 @@
+#unnamed_jpg{
+    width: 240;
+}
+
+#navbar{
+    background-color: red;
+    color: white;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
