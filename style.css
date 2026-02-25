@@ -1,8 +1,8 @@
-body{
-margin: 0;
-padding: 0;
-background-color: aqua;
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+body {
+  margin: 0;
+  padding: 0;
+  background-color: aqua;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 
 
@@ -13,35 +13,42 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 
 
-#Fluzao_jpg{
-    width: 240;
+#Fluzao_jpg {
+  width: 240;
 }
 
-#navbar{
-    background-color: red;
-    color: white;
+#navbar {
+  background-color: red;
+  color: white;
 
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 
-    padding: 20px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
- #noticias{
-   display: flex;
-   text-align: center;
-   justify-content: space-around;
-   padding: 6px;
- }
+#noticias {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  padding: 6px;
+}
 
- .noticia{
-    background-color: bisque;
-    color: white;
-    border: 4px solid black;
- }
- .img_noticias{
-    width: 200px;
-    height: 200px;
- }
+.noticia {
+  background-color: bisque;
+  color: white;
+  border: 4px solid black;
+}
+
+.img_noticias {
+  width: 200px;
+  height: 200px;
+}
+
+.img_jogadores {
+  width: 200px;
+  height: 200px;
+
+}
